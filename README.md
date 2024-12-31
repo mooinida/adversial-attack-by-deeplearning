@@ -8,4 +8,5 @@
 私は主にDEEPFOOLについて勉強しました。
 ＊DeepFoolは、ニューラルネットワークベースの分類モデルを欺くために設計された敵対的攻撃アルゴリズムです。この攻撃は入力データ（例: 画像）に非常に小さな変化（摂動, perturbation）を加え、モデルが誤ったクラスに分類するように誘導します。
 ![image](https://github.com/user-attachments/assets/9753fdbb-fd16-4681-a7af-61c9c4d8390d)
-![image](https://github.com/user-attachments/assets/2fd1b883-8326-4428-9b9e-e98db08bbbbc)
+![image](https://github.com/user-attachments/assets/b7d73877-d98a-4f5c-9c46-2355a3f03ba0)
+
